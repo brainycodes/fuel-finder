@@ -14,7 +14,7 @@ function SearchPageContent() {
   const [prices, setPrices] = useState(null)
   const [loading, setLoading] = useState(true)
   const [country, setCountry] = useState('NG')
-  const [radius, setRadius] = useState(5)
+  const [radius, setRadius] = useState(20)
   const [countries, setCountries] = useState([])
   const [userLocation, setUserLocation] = useState(null)
   const [locationLoading, setLocationLoading] = useState(true)
