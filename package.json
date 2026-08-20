@@ -1,6 +1,8 @@
 {
   "name": "fuel-finder-frontend",
   "version": "1.0.0",
+  "license": "MIT",
+  "author": "Solomon Zion",
   "private": true,
   "scripts": {
     "dev": "next dev",
