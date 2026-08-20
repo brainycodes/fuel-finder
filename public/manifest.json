@@ -1,0 +1,16 @@
+{
+  "name": "FuelFinder Pro",
+  "short_name": "FuelFinder",
+  "description": "Global Fuel Station Finder with Real-Time Prices",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
