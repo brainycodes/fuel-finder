@@ -1,4 +1,4 @@
-# FindFuelSpot - Frontend
+# FindFuel - Frontend
 
 **Find the closest fuel near you** — Real-time fuel station locator with live prices, directions, and station details.
 
@@ -92,7 +92,7 @@ Create `.env.local`:
 NEXT_PUBLIC_API_URL=http://localhost:5000/api/v1
 
 # App details
-NEXT_PUBLIC_APP_NAME=FindFuelSpot
+NEXT_PUBLIC_APP_NAME=FindFuel
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
